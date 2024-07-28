@@ -30,8 +30,6 @@ const HeroContent = () => {
             </span>
          
         </motion.div>
-
-
         <motion.div
           variants={slideInFromLeft(0.5)}
           className="Welcome-box py-[8px] px-[7px] border border-[#7042f88b] opacity-[0.9]"
